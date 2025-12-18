@@ -1,4 +1,4 @@
-import Wedding1 from '../assets/wedding/wedding3edding.jpg';
+import Wedding1 from '../assets/wedding/wedding.jpg';
 import Wedding2 from '../assets/wedding/wedding2.jpg';
 import Wedding3 from '../assets/wedding/wedding3.jpg';
 import Wedding4 from '../assets/wedding/wedding4.jpg';
